@@ -1,0 +1,6 @@
+Criterio	sabor_8	sabor_15	sabor_22
+5	18	25	17
+4	10	8	11
+3	1	0	1
+2	1	0	0
+1	0	1	0

@@ -1,0 +1,13 @@
+factor_A	factor_B	conc_prot
+F	Invierno	24
+F	Invierno	28
+F	Invierno	26
+F	Verano	17
+F	Verano	18
+F	Verano	16
+M	Invierno	17
+M	Invierno	18
+M	Invierno	16
+M	Verano	24
+M	Verano	25
+M	Verano	23

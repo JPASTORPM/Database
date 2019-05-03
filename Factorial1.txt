@@ -1,0 +1,9 @@
+factor_A	factor_B	germinacion
+0	PEG	83
+-0.5	PEG	76
+-1	PEG	43
+-1.5	PEG	9
+0	ClNa	85
+-0.5	ClNa	78
+-1	ClNa	54
+-1.5	ClNa	14

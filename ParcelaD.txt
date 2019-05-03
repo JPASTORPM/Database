@@ -1,0 +1,25 @@
+parc	bloque	variedad	rendimiento
+Riego	1	BUCK-Charrua	409.3
+Riego	2	BUCK-Charrua	311.7
+Riego	3	BUCK-Charrua	516.4
+Secano	1	BUCK-Charrua	266.3
+Secano	2	BUCK-Charrua	252.8
+Secano	3	BUCK-Charrua	299.9
+Riego	1	LasRosas-INTA	544.9
+Riego	2	LasRosas-INTA	445.4
+Riego	3	LasRosas-INTA	585.7
+Secano	1	LasRosas-INTA	259.3
+Secano	2	LasRosas-INTA	358.4
+Secano	3	LasRosas-INTA	350.2
+Riego	1	Pigue	519.9
+Riego	2	Pigue	477
+Riego	3	Pigue	624.5
+Secano	1	Pigue	340.7
+Secano	2	Pigue	296.6
+Secano	3	Pigue	327.2
+Riego	1	Pro-INTA Puntal	629.5
+Riego	2	Pro-INTA Puntal	639
+Riego	3	Pro-INTA Puntal	585.7
+Secano	1	Pro-INTA Puntal	236.6
+Secano	2	Pro-INTA Puntal	335.7
+Secano	3	Pro-INTA Puntal	390.5

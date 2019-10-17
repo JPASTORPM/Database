@@ -1,45 +1,45 @@
-Tratamiento	pH	OD	Temperatura	ORP	Conductividad
-Salida Pennisetum	7.5	3.6	24.9	93.5	368
-Entrada	7.35	2.8	25.9	125	372
-Salida Control	7.5	5.5	25.8	90	293
-Salida Pennisetum	7.55	3.4	26.1	89.2	367
-Salida Control	6.38	5	25.5	55.4	377
-Salida Pennisetum	6.42	5.4	27	24.8	302
-Entrada	7.18	3.4	24	-135.1	383
-Salida Control	7.15	5.1	26.1	50.7	300
-Salida Pennisetum	7.1	4.5	25.5	50.3	375
-Entrada	6.09	3	23.5	-171.6	386
-Salida Control	7.5	6	22.9	-51.1	237.3
-Entrada	7.42	4.1	24.8	-120.2	252.6
-Salida Control	7.27	5.7	23.2	6.4	238
-Salida Pennisetum	7.52	5.1	23.7	67.1	249.3
-Entrada	7.38	5	25	-50.6	251.1
-Salida Control	6.41	5.2	23.8	6.8	235.3
-Entrada	7.46	5.4	25	-24.4	248.8
-Salida Control	7.37	5	25	116	268
-Salida Pennisetum	7.64	4.9	25	110	312
-Entrada	7.23	4.6	26	-8.8	379
-Salida Control	7.32	4.1	28.2	260.9	277
-Salida Pennisetum	7.49	3.6	27	237.3	313
-Salida Pennisetum	7.49	3.6	27	237.3	313
-Entrada	7.27	4.4	25.6	-42.6	378
-Salida Control	7.4	4.7	27.7	21.2	274
-Salida Pennisetum	7.56	4.5	26.6	50.8	316
-Entrada	7.2	6.1	24.3	-38.8	378
-Salida Control	7.32	5.4	26.6	35.5	271
-Salida Pennisetum	7.45	4.6	26.2	64	317
-Entrada	7.04	4	22.9	277.6	373
-Salida Control	7.33	6.8	26.6	178.3	264
-Salida Pennisetum	7.18	4.3	22.1	214.8	274
-Entrada	7.53	5.1	22.9	-20	373
-Salida Control	7.6	6	22.4	1.5	264
-Salida Pennisetum	7.66	5.7	23	40.1	278
-Entrada	7.54	5.7	23.3	-13.4	373
-Salida Control	7.63	5.7	22.6	6.1	273
-Salida Pennisetum	7.72	4.9	22.6	32.9	280
-Entrada	7.26	4.5	24.6	153.8	373
-Salida Control	7.61	6.1	23	107.3	261
-Salida Pennisetum	7.52	5.2	24	109.7	278
-Entrada	7.48	4	25.2	13.6	376
-Salida Control	7.56	6.1	23.3	-27.8	262
-Salida Pennisetum	7.67	5.4	24.7	0.3	280
+Tratamiento	Cadmio	Cobalto
+Salida Pennisetum	7.5	3.6
+Entrada	7.35	2.8
+Salida Control	7.5	5.5
+Salida Pennisetum	7.55	3.4
+Salida Control	6.38	5
+Salida Pennisetum	6.42	5.4
+Entrada	7.18	3.4
+Salida Control	7.15	5.1
+Salida Pennisetum	7.1	4.5
+Entrada	6.09	3
+Salida Control	7.5	6
+Entrada	7.42	4.1
+Salida Control	7.27	5.7
+Salida Pennisetum	7.52	5.1
+Entrada	7.38	5
+Salida Control	6.41	5.2
+Entrada	7.46	5.4
+Salida Control	7.37	5
+Salida Pennisetum	7.64	4.9
+Entrada	7.23	4.6
+Salida Control	7.32	4.1
+Salida Pennisetum	7.49	3.6
+Salida Pennisetum	7.49	3.6
+Entrada	7.27	4.4
+Salida Control	7.4	4.7
+Salida Pennisetum	7.56	4.5
+Entrada	7.2	6.1
+Salida Control	7.32	5.4
+Salida Pennisetum	7.45	4.6
+Entrada	7.04	4
+Salida Control	7.33	6.8
+Salida Pennisetum	7.18	4.3
+Entrada	7.53	5.1
+Salida Control	7.6	6
+Salida Pennisetum	7.66	5.7
+Entrada	7.54	5.7
+Salida Control	7.63	5.7
+Salida Pennisetum	7.72	4.9
+Entrada	7.26	4.5
+Salida Control	7.61	6.1
+Salida Pennisetum	7.52	5.2
+Entrada	7.48	4
+Salida Control	7.56	6.1
+Salida Pennisetum	7.67	5.4
